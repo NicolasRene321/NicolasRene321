@@ -1,4 +1,4 @@
-### Hello, welcome! I'm Nícolas Renê 👋
+## Hello, welcome! I'm Nícolas Renê 👋
 
 # 💫 About Me:
 🖥️ I am focused and dedicated to programming;<br>🤝🏻 I like working and interacting with people;<br>📖 Reading books is one of my favorite hobbies;<br>💪🏻 Always studying a new subject;<br>🐛 I make mistakes and learn from them;<br>
